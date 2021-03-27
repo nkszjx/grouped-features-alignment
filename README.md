@@ -3,7 +3,12 @@ To effectively address the domain shift problem on cross-satellite images, we de
 
 
 This paper is published at IEEE TGRS
-Article title: Unsupervised Domain Adaptation for Cloud Detection Based on Grouped Features Alignment and Entropy Minimization
-Journal acronym: TGRS
-Article DOI: 10.1109/TGRS.2021.3067513
-Manuscript Number: TGRS-2020-02451
+
+@ARTICLE{9387459,  author={J. {Guo} and J. {Yang} and H. {Yue} and K. {Li}},  
+journal={IEEE Transactions on Geoscience and Remote Sensing},   
+title={Unsupervised Domain Adaptation for Cloud Detection Based on Grouped Features Alignment and Entropy Minimization},   
+year={2021},  volume={},  number={},  
+pages={1-13},  
+doi={10.1109/TGRS.2021.3067513}
+}
+
