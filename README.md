@@ -1,7 +1,7 @@
 
 
 ## Package pre-requisites
-The code runs on Python 2/3 and Pytorch 0.4 The following packages are required. 
+The code runs on Python 2/3 The following packages are required. 
 
 ```
 pip install scipy tqdm matplotlib numpy opencv-python
